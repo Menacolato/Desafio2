@@ -10,8 +10,10 @@ Sistema de Gestión de Cumpleaños
 
 Descripción:
 Programa que permite almacenar el nombre y fecha de nacimiento de N personas con las siguientes funcionalidades:
-Cumpleaños del día: Muestra quiénes cumplen años hoy y la edad que cumplen
-Búsqueda por fecha: Permite consultar quiénes cumplen años en una fecha específica
+
+- Cumpleaños del día: Muestra quiénes cumplen años hoy y la edad que cumplen
+- Búsqueda por fecha: Permite consultar quiénes cumplen años en una fecha específica
+
 Características técnicas:
 ✔️ Matriz bidimensional para almacenamiento de datos
 ✔️ Menú interactivo con sistema de colores
