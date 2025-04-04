@@ -14,13 +14,6 @@ Programa que permite almacenar el nombre y fecha de nacimiento de N personas con
 - Cumpleaños del día: Muestra quiénes cumplen años hoy y la edad que cumplen
 - Búsqueda por fecha: Permite consultar quiénes cumplen años en una fecha específica
 
-Características técnicas:
-✔️ Matriz bidimensional para almacenamiento de datos
-✔️ Menú interactivo con sistema de colores
-✔️ Validación básica de entradas
-✔️ Consola con fondo blanco y texto oscuro para mejor legibilidad
-✔️ Código modular con métodos especializados
-
 🎮 EJERCICIO 12 (7 puntos)
 Juego del Ahorcado en C#
 Descripción:
@@ -35,13 +28,6 @@ Funcionalidades principales:
 - Letras acertadas
 - Intentos restantes
 - Pistas según fallos
-
-Requisitos cumplidos:
-✅ Selección aleatoria de palabra secreta
-✅ Mecánica de 6 intentos
-✅ Sistema de pistas progresivas (1 por fallo)
-✅ Mensajes de victoria/derrota
-✅ Visualización interactiva del progreso
 
 📂 Estructura del Desafio
 
