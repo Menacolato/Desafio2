@@ -16,8 +16,7 @@ Programa que permite almacenar el nombre y fecha de nacimiento de N personas con
 
 🎮 EJERCICIO 12 (7 puntos)
 Juego del Ahorcado en C#
-Descripción:
-Implementación del clásico juego del ahorcado con palabras secretas y sistema de pistas.
+Descripción: Implementación del clásico juego del ahorcado con palabras secretas y sistema de pistas.
 
 Funcionalidades principales:
 - 6 palabras secretas predefinidas (selección aleatoria)
@@ -28,17 +27,5 @@ Funcionalidades principales:
 - Letras acertadas
 - Intentos restantes
 - Pistas según fallos
-
-📂 Estructura del Desafio
-
-Desafio2/
-├── Cumpleaños/         # Ejercicio 11
-│   ├── Program.cs      # Código principal
-│   └── README.md       # Instrucciones específicas
-│
-└── Ahorcado/           # Ejercicio 12
-    ├── Program.cs      # Lógica del juego
-    ├── palabras.txt    # Diccionario de palabras
-    └── pistas.txt      # Banco de pistas
 
 ¡Listo para revisión!
